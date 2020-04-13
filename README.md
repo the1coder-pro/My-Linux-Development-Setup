@@ -16,6 +16,7 @@ This is My Linux Setup for Development
  - gnome tweaks
  - Tillix
  - brave
+ - gnome-sushi
 
 ### My Terminal Setup
  - [Tillix](https://github.com/gnunn1/tilix) is my Defualt Terminal --> [Here](https://gnunn1.github.io/tilix-web/#packages)
@@ -26,7 +27,7 @@ This is My Linux Setup for Development
  - fish and oh-my-fish --> [Here](https://github.com/oh-my-fish/oh-my-fish)
  - ~all of this --> [Here](https://medium.com/@ivanaugustobd/your-terminal-can-be-much-much-more-productive-5256424658e8)~
  - vscode extensions list --> [Here](https://github.com/the1coder-pro/my-vscode-extension-list/blob/master/the-list.txt)
- - git, say, cowsay, python-pip, nodejs, vim, htop, cups, snap
+ - git, say, cowsay, python-pip, nodejs, vim, htop, cups, snap, npm
  - font is fira code --> [Here](https://github.com/tonsky/FiraCode)
  # Done 🎓️
  
