@@ -3,8 +3,9 @@ This is My Linux Setup for Development
 
 ## My Linux Distro 🐧️
 - [Ubuntu](https://ubuntu.com/download/desktop)
-- icons theme [Qogir](https://www.gnome-look.org/p/1230631/)
-- cursor [Macos-Cursor-set](https://www.gnome-look.org/p/1148748/)🖱️
+- icons [Qogir icons](https://github.com/vinceliuice/Qogir-icon-theme)
+- theme [Qogir Themes](https://github.com/vinceliuice/Qogir-theme)
+- cursor [OSX el capitan](https://www.gnome-look.org/p/1084939/)🖱️
 
 ## My Development Setup
 
