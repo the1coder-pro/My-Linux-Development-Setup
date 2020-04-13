@@ -10,10 +10,11 @@ This is My Linux Setup for Development
 
 ## Applications 📦️📦️
  - vs code
- - chrome
+ - ~chrome~
  - telegram
  - gnome tweaks
  - Tillix
+ - brave
 
 ### My Terminal Setup
  - [Tillix](https://github.com/gnunn1/tilix) is my Defualt Terminal --> [Here](https://gnunn1.github.io/tilix-web/#packages)
@@ -22,7 +23,7 @@ This is My Linux Setup for Development
  - zsh and oh-my-zsh --> [Here](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)
  - powerline10k --> [here](https://github.com/romkatv/powerlevel10k)
  - all of this --> [here](https://medium.com/@ivanaugustobd/your-terminal-can-be-much-much-more-productive-5256424658e8)
- - git, say, cowsay, python-pip, nodejs, vim
+ - git, say, cowsay, python-pip, nodejs, vim, htop, cups, snap, 
  - my font is fira code --> [here](https://github.com/tonsky/FiraCode)
  # Done 🎓️
  
